@@ -1,0 +1,36 @@
+# Pastas de build
+bin/
+obj/
+out/
+
+# Arquivos temporários e de cache
+*.tmp
+*.temp
+*.log
+*.userprefs
+
+# Configurações do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configurações locais
+Properties/launchSettings.json
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do editor
+*.swp
+*.swo
